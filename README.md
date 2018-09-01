@@ -1,0 +1,1 @@
+# glue-redshift-table-partitioning
